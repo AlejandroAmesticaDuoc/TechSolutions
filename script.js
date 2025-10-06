@@ -1,3 +1,3 @@
 const users = [
-    {email: 'Techsolutions@gmail.com'}
+  { name: 'Victor', age: 26 , email: 'Techsolutions@gmail.com }
 ];
